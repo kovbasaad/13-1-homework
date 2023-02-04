@@ -21,12 +21,11 @@
 - Какие сетевые службы в ней разрешены?
 ![1-1]()
 
-- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-[Multiple Vendor Telnet Client - Env_opt_add Heap Buffer Overflow](https://www.exploit-db.com/exploits/25303)
-https://www.exploit-db.com/exploits/47956 Pachev FTP Server 1.0 - Path Traversal
-https://www.exploit-db.com/exploits/48038 OpenSMTPD - MAIL FROM Remote Code Execution (Metasploit)
+- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)<br>
+[Multiple Vendor Telnet Client - Env_opt_add Heap Buffer Overflow](https://www.exploit-db.com/exploits/25303)<br>
+[Pachev FTP Server 1.0 - Path Traversal](https://www.exploit-db.com/exploits/47956)<br>
+[OpenSMTPD - MAIL FROM Remote Code Execution (Metasploit)](https://www.exploit-db.com/exploits/48038)
   
-
 
 ### Задание 2
 
