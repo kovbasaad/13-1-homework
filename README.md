@@ -22,7 +22,7 @@
 ![1-1]()
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-[Multiple Vendor Telnet Client - Env_opt_add Heap Buffer Overflow][] [Example]: https://www.exploit-db.com/exploits/25303
+[Multiple Vendor Telnet Client - Env_opt_add Heap Buffer Overflow][Example] [Example]: https://www.exploit-db.com/exploits/25303
 https://www.exploit-db.com/exploits/47956 Pachev FTP Server 1.0 - Path Traversal
 https://www.exploit-db.com/exploits/48038 OpenSMTPD - MAIL FROM Remote Code Execution (Metasploit)
   
